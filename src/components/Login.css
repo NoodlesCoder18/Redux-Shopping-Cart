@@ -1,0 +1,40 @@
+.loginstyle{
+    width:100%;
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginborder{
+border-radius: 10px;
+  padding:70px;
+    border:1px solid grey;
+}
+
+
+.welcome{
+    text-align: center;
+ }
+ #basic-button{
+    font-size: 25px;
+    }
+    /* .foot{
+        width:90%;
+        height:150px;
+        background-color: black;
+        color:white;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+    } */
+    .hover-zoom {
+        overflow: hidden;
+      }
+      
+      .hover-zoom {
+        transition: all 0.1s ease 0s;
+      }
+      
+      .hover-zoom:hover {
+        transform: scale(1.25);
+       }
